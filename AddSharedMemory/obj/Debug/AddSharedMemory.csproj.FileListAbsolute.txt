@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\bin\Debug\AddSharedMemory.exe.config
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\bin\Debug\AddSharedMemory.exe
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\bin\Debug\AddSharedMemory.pdb
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.Form1.resources
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.Properties.Resources.resources
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.exe
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.pdb
