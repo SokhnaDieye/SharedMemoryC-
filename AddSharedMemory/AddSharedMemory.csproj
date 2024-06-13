@@ -76,6 +76,9 @@
     <None Include="Connected Services\ServiceMetier\AddSharedMemory.ServiceMetier.CompositeType.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
+    <None Include="Connected Services\ServiceMetier\AddSharedMemory.ServiceMetier.jury.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Connected Services\ServiceMetier\Service1.wsdl" />
     <None Include="Connected Services\ServiceMetier\Service1.xsd">
       <SubType>Designer</SubType>
@@ -84,6 +87,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Connected Services\ServiceMetier\Service12.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceMetier\Service13.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Properties\Settings.settings">
