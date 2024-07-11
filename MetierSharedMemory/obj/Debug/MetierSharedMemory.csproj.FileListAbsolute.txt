@@ -43,3 +43,5 @@ C:\Users\HP\source\repos\SolutionSharedMemory\MetierSharedMemory\bin\System.Nume
 C:\Users\HP\source\repos\SolutionSharedMemory\MetierSharedMemory\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\HP\source\repos\SolutionSharedMemory\MetierSharedMemory\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\HP\source\repos\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.CopyComplete
+C:\Users\HP\source\repos\SolutionSharedMemory\MetierSharedMemory\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\SolutionSharedMemory\MetierSharedMemory\bin\Newtonsoft.Json.xml

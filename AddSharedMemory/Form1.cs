@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AddSharedMemory.ServiceMetier;
 
 namespace AddSharedMemory
 {
@@ -19,10 +20,22 @@ namespace AddSharedMemory
             InitializeComponent();
         }
 
+        /*private void Form1_Load(object sender, EventArgs e)
+        {
+           dgJury.DataSource = service.GetJury();
+        }*/
         private void Form1_Load(object sender, EventArgs e)
         {
-            dgJury.DataSource = service.GetJury();
+            try
+            {
+                dgJury.DataSource = service.GetJury();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Erreur lors de la récupération des données : {ex.Message}");
+            }
         }
+
 
         private void btnAjouter_Click(object sender, EventArgs e)
         {
@@ -55,6 +68,10 @@ namespace AddSharedMemory
             service.EditJury(jury);
             Effacer();
         }
-        
+
+        private void dgJury_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

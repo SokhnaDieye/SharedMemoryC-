@@ -8,3 +8,7 @@ C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddShare
 C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.exe
 C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.pdb
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.csproj.CopyComplete
+C:\Users\HP\source\repos\SolutionSharedMemory\AddSharedMemory\obj\Debug\AddSharedMemory.frmProduits.resources

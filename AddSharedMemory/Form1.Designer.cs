@@ -55,6 +55,7 @@
             this.dgJury.RowTemplate.Height = 24;
             this.dgJury.Size = new System.Drawing.Size(995, 648);
             this.dgJury.TabIndex = 0;
+            this.dgJury.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgJury_CellContentClick);
             // 
             // label1
             // 

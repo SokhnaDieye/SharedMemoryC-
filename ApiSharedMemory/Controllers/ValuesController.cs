@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ApiSharedMemory.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,7 +10,21 @@ namespace ApiSharedMemory.Controllers
 {
     public class ValuesController : ApiController
     {
-        // GET api/values
+
+        private StockEntities db = new StockEntities();
+
+        public List<Produit> getListProduit()
+        {
+            return db.Produit.ToList();
+        }
+        [HttpPost]
+        public void AddProduit([FromBody] Produit value)
+        {
+            db.Produit.Add(value);
+            db.SaveChanges();
+        }
+
+        /*// GET api/values
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
@@ -34,6 +49,6 @@ namespace ApiSharedMemory.Controllers
         // DELETE api/values/5
         public void Delete(int id)
         {
-        }
+        }*/
     }
 }
